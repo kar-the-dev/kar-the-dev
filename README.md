@@ -1,4 +1,4 @@
-<h3 align="center">A front and backend web dev that loves making stupid projects.</h3>
+<h3 align="center">A front and backend web dev that loves making stupid projects. Currently working on [Grid](https://grid-app.lol/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kar-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kar-the-dev" /> </p>
 
