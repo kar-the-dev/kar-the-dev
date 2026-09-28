@@ -7,7 +7,7 @@
 
 - 💻 I’m currently working on [Grid](https://grid-app.lol/)
 
-- 📫 How to reach me **kar@grid-app.lol**
+- 📫 How to reach me **karter@kar7.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
