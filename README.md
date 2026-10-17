@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/kar___7" target="blank"><img src="https://img.shields.io/twitter/follow/kar___7?logo=twitter&style=for-the-badge" alt="kar___7" /></a> </p>
 
-- 💻 I’m currently working on [Grid](https://grid-app.lol/)
-
 - 📫 How to reach me **karter@kar7.dev**
 
 <h3 align="left">Connect with me:</h3>
